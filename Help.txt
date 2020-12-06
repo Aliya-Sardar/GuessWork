@@ -1,0 +1,16 @@
+Step 1:
+	To play the game, first enter your name. 
+	Then the 'Play' button will appear.
+
+Step 2:
+	Press the 'Play' button.
+
+Step 3:
+	A drawing will start and the player will have to guess it. 
+	On the wrong guess, the game will end.
+
+Step 4:
+	Check your score.
+
+Step 5:
+	Beat your friend's highscore!!!
